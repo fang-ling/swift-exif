@@ -1,0 +1,3 @@
+This directory is derived from libexif
+  cloned from https://github.com/libexif/libexif.git
+at revision e99f14785ef02ee249bccbad8a97595eadbab810
